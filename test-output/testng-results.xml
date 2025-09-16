@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-09-16T12:49:42 IST" name="Default suite" finished-at="2025-09-16T12:49:43 IST" duration-ms="984">
+    <groups>
+    </groups>
+    <test started-at="2025-09-16T12:49:42 IST" name="Default test" finished-at="2025-09-16T12:49:43 IST" duration-ms="984">
+      <class name="mysql.MySQLDemo">
+        <test-method signature="testRunQuery()[pri:0, instance:mysql.MySQLDemo@6cce16f4]" started-at="2025-09-16T12:49:42 IST" name="testRunQuery" description="Should print Kim Baxter&#039;s email from the database" finished-at="2025-09-16T12:49:43 IST" duration-ms="836" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRunQuery -->
+      </class> <!-- mysql.MySQLDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
